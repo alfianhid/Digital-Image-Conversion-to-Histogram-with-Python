@@ -1,5 +1,5 @@
 # Digital Image Conversion to Histogram with-Python
 
-Digital image processing (pengolahan citra digital) adalah sebuah metode untuk mengubah gambar (citra) menjadi bentuk digital dan melakukan beberapa operasi terhadapnya, untuk mendapatkan citra yang disempurnakan atau mengekstrak informasi yang penting dan berguna.
+Digital image processing is a method for converting images into digital form and performing some operations on them, to obtain an enhanced image or extract important and useful information.
 
-Repositori ini berisi script atau source code tentang langkah-langkah konversi gambar (citra) digital menjadi histogram. Adapun konversi yang dilakukan berasal dari dua color space (raung warna) citra, yakni Grayscale dan RGB.
+This repository contains scripts or source code about the steps for converting digital images into histograms. The conversion was performed from two color space that is Grayscale and RGB images.
